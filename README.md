@@ -7,9 +7,10 @@
 
 ## 🛠 Skills
 - **Language:** `Go`, `Python`, `Java` and `Js`.
-- **Blockchain:** `Hyperledger Fabric`, `Ethereum`, `Cosmos` and `Sui`.
 - **Databases：** `Mysql`、`Mongodb` and `Redis`.
-- **DevOps：** `PM2` and `Nginx`.
+- **Cloud:** `K8s`, `K3s` and `DevOps`.
+- **Blockchain:** `Hyperledger Fabric`, `Ethereum`, `Cosmos` and `Sui`.
+- **AI：** `NLP`, `Pytorch`, `Transformer` and `GPT`.
 
 ## 💡 My Products
 
