@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Jon Luo!
 
 ## 🚀 About Me
-**Full-Stack Engineer, Open-Source , Blockchain , AI, CodeEnthusiast.**
+**Full-Stack Engineer, Open-Source, Blockchain, AI, Code-Enthusiast.**
 
-**全栈工程师，开源，区块链，AI，编码狂热爱好者。**
+**全栈工程师，开源，区块链，AI，代码爱好者。**
 
 ## 🛠 Skills
 - **Front-End:** `React`, `Vue`, `Plasmo` and `Next.js`.
