@@ -6,7 +6,7 @@
 **全栈工程师，开源，云计算，区块链，AI，代码爱好者。**
 
 ## 🛠 Skills
-- **Language:** `Go`, `Python`, `Java` and `Js`.
+- **Language:** `Go`, `Python`, `Java` and `JavaScript`.
 - **Databases：** `Mysql`、`Mongo` and `Redis`.
 - **Cloud:** `K8s`, `K3s` and `DevOps`.
 - **Blockchain:** `Hyperledger Fabric`, `Ethereum`, `Cosmos` and `Sui`.
