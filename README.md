@@ -18,10 +18,10 @@
 
 ## 📫 Contact Me
 
-<a href="https://github.com/weijunext/weijunext" style="max-width:50%;" >
+<a href="https://github.com/jonluo94/jonluo94" style="max-width:50%;" >
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=jonluo94&count_private=true&theme=radical" />
 </a>
 
-<a href="https://github.com/weijunext/weijunext" style="max-width:50%;" >
+<a href="https://github.com/jonluo94/jonluo94" style="max-width:50%;" >
   <img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=jonluo94&layout=compact&langs_count=8">
 </a>
