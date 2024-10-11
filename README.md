@@ -7,7 +7,7 @@
 
 ## 🛠 Skills
 - **Language:** `Go`, `Python`, `Java` and `Js`.
-- **Databases：** `Mysql`、`Mongodb` and `Redis`.
+- **Databases：** `Mysql`、`Mongo` and `Redis`.
 - **Cloud:** `K8s`, `K3s` and `DevOps`.
 - **Blockchain:** `Hyperledger Fabric`, `Ethereum`, `Cosmos` and `Sui`.
 - **AI：** `NLP`, `Pytorch`, `Transformer` and `GPT`.
