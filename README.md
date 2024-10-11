@@ -6,9 +6,9 @@
 **全栈工程师，开源，云计算，区块链，AI，代码爱好者。**
 
 ## 🛠 Skills
-- **Front-End:** `React`, `Vue`, `Plasmo` and `Next.js`.
-- **Back-End:** `Node.js`, `Koa`, `Express` and `Midway.js`.
-- **Databases：** `Mysql`、`Prisma` and `Redis`.
+- **Language:** `Go`, `Python`, `Java` and `Js`.
+- **Blockchain:** `Hyperledger Fabric`, `Ethereum`, `Cosmos` and `Sui`.
+- **Databases：** `Mysql`、`Mongodb` and `Redis`.
 - **DevOps：** `PM2` and `Nginx`.
 
 ## 💡 My Products
