@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Jon Luo!
 
 ## 🚀 About Me
-**Full-Stack Engineer, Open-Source Next.js Artist & AI Enthusiast.**
+**Full-Stack Engineer, Open-Source & AI Enthusiast.**
 
-**全栈工程师，Next.js 开源手艺人，AI降临派。**
+**全栈工程师，开源手艺人，AI降临派。**
 
 **I'm a Next.js developer and educator.**
 
